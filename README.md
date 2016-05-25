@@ -1,4 +1,4 @@
-# BinarySearch
+# cpp-binary-search
 
 ## Usage
 ```
